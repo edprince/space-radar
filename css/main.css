@@ -1,0 +1,8 @@
+html, body {
+  background-color: black;
+}
+
+#radar {
+  border-radius: 50%;
+  border: solid 2px green;
+}
